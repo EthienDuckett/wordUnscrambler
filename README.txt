@@ -10,3 +10,4 @@ I would appreciate if you follow me, then you can see what other cool stuff I wi
 If you have any suggestions or want to contact me, let me know at ethienduckett@outlook.com
 I can add special characters to the unscrambler if you email me
 thank you
+also I am not to be held accountable for any of the words in the mostWords.txt file, I did not create it and I don't want any problems
