@@ -1,0 +1,48 @@
+step 0:
+call the python file from your terminal
+python3 unscrambler.py
+
+
+If you don't know how to use the program this explains how
+step 1:
+type out the name of the file that contains words (mostWords.txt has most words in it. So if you are unscrambling ordinary words just use it.)
+then press enter to input the file name
+
+mostWords.txt
+(press enter)
+note that the file name is case-sensitive
+
+Next you must wait because it can take 10-15 seconds for mostWords.txt to be compiled into a dictonary. The dictonary takes the number of each letter and assigns it to the word(s) that can be formed using the letters
+
+
+The terminal will now output a string that tells you to enter words seperately and to press enter to advace, (by words it means to enter the string to be unscrambled) that means:
+enter word 1:
+olleh
+(press enter)
+enter word 2:
+dlrow
+(press enter)
+enter word 3:
+htnuehtn
+
+you may repeat this process until you have entered all of the words
+then press enter with the field blank to advace to the next step
+enter word 4:
+(press enter)
+
+
+the next step gives you the option to correct any typos. It is obvious that 3 is not a word so I will demonstrate me fixing it.
+the format is like this
+3yppah
+(press enter)
+
+this step can also be repeated and ended in the same way as the previous step
+(word # that was typoed followed by the correct version)
+
+the final step is the output, the unscrambled words will be listed in the order they were entered in in a document called unscrambled.txt
+
+the terminal will say some stuff, but that is just because I am lazy and didn't want to comment it out or anything so ignore it
+
+
+
+
